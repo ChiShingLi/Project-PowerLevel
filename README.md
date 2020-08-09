@@ -1,10 +1,6 @@
 # PowerLevel - A Gamified Fitness Website
 
-## Motto
-
-Delivering crisp slices of code.
-
-## Team Description
+## Description
 
 This is the repository for the Toaster Code development team. This repository houses all of our code for our Senior project as well as documents and files for each milestone we achieve.
 
@@ -78,7 +74,3 @@ This project was conceived and built by the members of Western Oregon University
 
 For those who are contributing code. Please follow the guidelines listed in the guideline page. Follow the link below.
 [Processes and Guidelines](Milestone_5/processes_and_guidelines.md)
-
-## Node.js Presentation
-
-[Node.js](https://docs.google.com/presentation/d/1w6v8UUcAvWzoZQ_TJcF2Jstvfe7mZQhQqySSDWPtLGE/edit#slide=id.gcb9a0b074_1_0)
